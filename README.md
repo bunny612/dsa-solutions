@@ -10,6 +10,7 @@ Each solution includes the approach, and time/space complexity.
 | # | Problem | Difficulty | Pattern | Solution |
 |---|---------|-----------|---------|----------|
 | 1 | Two Sum | Easy | Hash Map | [arrays/two-sum.py](arrays/two-sum.py) |
+| 2 | Maximum Subarray | Medium | Kadane's / DP | [arrays/max-subarray.py](arrays/max-subarray.py) |
 
 <!-- Add a new row every time you solve a problem. Keep this table in sync. -->
 
